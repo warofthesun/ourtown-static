@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>instagram &#8211; OurTown</title>
+	<atom:link href="http://localhost/tag/instagram/feed/" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Portraits of Nashville</description>
+	<lastBuildDate>Sat, 30 Mar 2019 23:34:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Our Town + Instagram</title>
+		<link>./../../../our-town-instagram/index.html</link>
+		<pubDate>Wed, 02 Jul 2014 19:58:25 +0000</pubDate>
+		<dc:creator><![CDATA[First Last]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[instagram]]></category>
+		<category><![CDATA[internetcontent]]></category>
+		<category><![CDATA[nashville]]></category>
+		<category><![CDATA[publicart]]></category>
+
+		<guid isPermaLink="false">http://new.thesplitpixel.com/ourtown/?p=499</guid>
+		<description><![CDATA[Over at Our Town HQ (aka Isle of Printing) we do our best to stay hip to the new social times. One of our favorite ways of doing so is via Instagram. We post photos from all of our events AND give updates on our growing gallery of printed portraits that could one day be [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Over at Our Town HQ (aka <a href="http://www.isleofprinting.com/">Isle of Printing</a>) we do our best to stay hip to the new social times. One of our favorite ways of doing so is via <a href="http://instagram.com/ourtownbikecart">Instagram</a>. We post photos from all of our events AND give updates on our growing gallery of printed portraits that could one day be yours for the price of your self-portrait donation! So please <a href="http://instagram.com/ourtownbikecart">follow us</a>, if you&#8217;re so inclined. We promise not to disappoint &#8212; Public Art will be seen and shared! Also, if you attend an event, make a portrait and/or take photos, please feel free to tag and hashtag us! Thanks for your support, Nashville! Hope to see you soon, face to face!</p>
+<p><a href="http://instagram.com/ourtownbikecart">@ourtownbikecart<br />
+</a>#ourtownnashville<a style="text-decoration:none" href="/minoxidil-online-paypal">.</a></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

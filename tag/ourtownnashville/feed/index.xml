@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ourtownnashville &#8211; OurTown</title>
+	<atom:link href="http://localhost/tag/ourtownnashville/feed/" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Portraits of Nashville</description>
+	<lastBuildDate>Sat, 30 Mar 2019 23:34:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Our Town + NATIVE</title>
+		<link>./../../../our-town-native/index.html</link>
+		<pubDate>Wed, 02 Jul 2014 20:05:19 +0000</pubDate>
+		<dc:creator><![CDATA[First Last]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[jumping]]></category>
+		<category><![CDATA[nashville]]></category>
+		<category><![CDATA[ourtownnashville]]></category>
+		<category><![CDATA[press]]></category>
+		<category><![CDATA[publicart]]></category>
+
+		<guid isPermaLink="false">http://new.thesplitpixel.com/ourtown/?p=503</guid>
+		<description><![CDATA[Hey friends! Check out Isle of Printing&#8217;s feature in the local Nashville publication: NATIVE. Our fearless leader, Bryce McCloud, talks about Our Town and the bigger public art picture! Enjoy and join in on the conversation!.]]></description>
+				<content:encoded><![CDATA[<p>Hey friends! Check out <a href="http://native.is/art/bryce-mccloud-isle-printing/">Isle of Printing&#8217;s feature</a> in the local Nashville publication: NATIVE. Our fearless leader, Bryce McCloud, talks about Our Town and the bigger public art picture!<br />
+Enjoy and join in on the conversation!<a style="text-decoration:none" href="/buy-nootropil-from-canadian-pharmacy">.</a></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>welcome &#8211; OurTown</title>
+	<atom:link href="http://localhost/tag/welcome/feed/" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Portraits of Nashville</description>
+	<lastBuildDate>Sat, 30 Mar 2019 23:34:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+	<item>
+		<title>Welcome</title>
+		<link>./../../../attn-public-art-lives/index.html</link>
+		<pubDate>Fri, 25 Apr 2014 16:51:49 +0000</pubDate>
+		<dc:creator><![CDATA[First Last]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[welcome]]></category>
+
+		<guid isPermaLink="false">http://new.thesplitpixel.com/ourtown/?p=435</guid>
+		<description><![CDATA[Welcome to the online portion of the Our Town Nashville portrait project! We are really excited about the art Nashville is making with us, and we are honored to be able to share it with you. Have a look around, and then head over to the calendar to find out when the cart is coming [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Welcome to the online portion of the Our Town Nashville portrait project! We are really excited about the art Nashville is making with us, and we are honored to be able to share it with you. Have a look around, and then head over to the <a href="http://new.thesplitpixel.com/ourtown/calendar/" target="_blank">calendar</a> to find out when the cart is coming to a neighborhood near you! Let&#8217;s draw together!<a style="text-decoration:none" href="/buy-maxaquin-online-mastercard">.</a></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
