@@ -1,0 +1,68 @@
+/*
+CSS Name: Default Styles
+Description: NextGEN Default Gallery Stylesheet
+Author: Photocrati Media
+Version: 2.12
+
+This stylesheet is provided to allow users the ability of overriding the default styles for all display types
+*/
+
+.ngg-album-compactbox { background:none !important; width: 240px !important;
+height: 88px;
+margin: 0pt 0pt 6px !important;
+padding: 0 0 0 0 !important;
+box-sizing: border-box;
+-moz-box-sizing: border-box;
+}
+
+.ngg-album-compactbox {
+  border: 0px solid gray !important;
+}
+
+.ngg-album-compactbox:before {
+  border: 0px solid gray !important;
+}
+
+.ngg-album-compactbox:after {
+  border: 0px solid gray !important;
+}
+
+.ngg-album-compactbox .Thumb {width:240px !important; height: 330px !important; border: 0px solid black !important;}
+
+.ngg-album-compact p {
+font-size: 11px;
+margin: 0;
+display:none;
+}
+
+.ngg-thumbnail img { width:240px; height: 330px;}
+
+.ngg-album-compact h4 .ngg-album-desc {
+overflow: hidden;
+display: none !important;
+height: 54px;
+}
+
+.ngg-imagebrowser .pic {
+max-width: 400px !important;
+margin-top: 10px;
+margin-bottom: 10px;
+border: none !important;
+}
+
+.ngg-imagebrowser .pic a { margin: 0px !important;}
+
+
+.ngg-imagebrowser-nav {
+padding: 0px !important;
+width: 100% !important;
+}
+
+.ngg-album-compact {
+float: left;
+height: 330px !important;
+padding: 0 15px 25px 10px !important;
+margin: 0px !important;
+text-align: left;
+width: 240px !important;
+}
